@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="keterangan_usaha_string">Keterangan Usaha</string>
+    <string name="domisili_string">Domisili</string>
+    <string name="belum_menikah_string">Belum Menikah</string>
+    <string name="izin_keramaian_string">Izin keramaian</string>
+    <string name="pengajuan_string">Pengajuan</string>
+    <string name="akun_string">Akun</string>
+
+</resources>
